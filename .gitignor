@@ -1,0 +1,13 @@
+# Ignore build outputs
+build/
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+
+# VS Code
+.vscode/
+
+# macOS/Linux extra (if cross-platform)
+.DS_Store

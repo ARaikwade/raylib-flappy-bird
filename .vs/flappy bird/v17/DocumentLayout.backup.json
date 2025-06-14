@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\Coin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\Obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45A3D718-8EB6-4B5A-9726-4C2A154CE7F2}|flappy bird\\flappy bird.vcxproj|solutionrelative:flappy bird\\ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.cpp",
+              "RelativeDocumentMoniker": "flappy bird\\Game.cpp",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.cpp",
+              "RelativeToolTip": "flappy bird\\Game.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T00:22:22.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ball.cpp",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.cpp",
+              "RelativeDocumentMoniker": "flappy bird\\ball.cpp",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.cpp",
+              "RelativeToolTip": "flappy bird\\ball.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T00:21:01.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.h",
+              "RelativeDocumentMoniker": "flappy bird\\Game.h",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Game.h",
+              "RelativeToolTip": "flappy bird\\Game.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T00:20:19.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coin.h",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Coin.h",
+              "RelativeDocumentMoniker": "flappy bird\\Coin.h",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Coin.h",
+              "RelativeToolTip": "flappy bird\\Coin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T00:20:05.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Obstacle.h",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Obstacle.h",
+              "RelativeDocumentMoniker": "flappy bird\\Obstacle.h",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\Obstacle.h",
+              "RelativeToolTip": "flappy bird\\Obstacle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T00:19:53.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ball.h",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.h",
+              "RelativeDocumentMoniker": "flappy bird\\ball.h",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\ball.h",
+              "RelativeToolTip": "flappy bird\\ball.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-14T00:19:22.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\main.cpp",
+              "RelativeDocumentMoniker": "flappy bird\\main.cpp",
+              "ToolTip": "C:\\Users\\amard\\Documents\\projects\\raylib projects\\flappy bird\\flappy bird\\main.cpp",
+              "RelativeToolTip": "flappy bird\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T00:18:03.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
